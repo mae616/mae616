@@ -11,14 +11,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mae616&count_private=true&show_icons=true&theme=dracula&hide_border=true)　　　　
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mae616&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=mae616)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="center" src="https://raw.githubusercontent.com/mae616/mae616/main/profile-summary-card-output/github/0-profile-details.svg" height="220px" />
 </a>
