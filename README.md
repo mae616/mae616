@@ -14,3 +14,23 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mae616&count_private=true&show_icons=true&theme=dracula&hide_border=true)　　　　
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mae616&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mae616)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="center" src="https://raw.githubusercontent.com/mae616/mae616/main/profile-summary-card-output/github/0-profile-details.svg" height="220px" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mae616&show_icons=true" height="158px" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mae616&layout=compact" />
+</a>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mae616&title=Joined2022,Commit,PullRequest,Repositories,Issues" height="151px" />
+</a>
