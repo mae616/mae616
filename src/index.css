@@ -1,3 +1,68 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique+B1&family=Zen+Kaku+Gothic+Antique&display=swap');
+
+@layer tailwind-base {
+  @tailwind base;
+}
+
+@layer tailwind-utilities {
+  @tailwind components;
+  @tailwind utilities;
+}
+
+.catch-copy .aos-init[data-aos="fade-in"] {
+  animation-name:fadeInAnime;
+  animation-duration:15s;
+  animation-fill-mode:forwards;
+  animation-timeline: calc(1-scroll());
+  opacity:0;
+}
+
+.aos-animate[data-aos="fade-in"] {
+  animation-name:fadeInAnime;
+  animation-duration:15s;
+  animation-fill-mode:forwards;
+  animation-timeline: calc(1-scroll());
+  opacity:0;
+}
+.anime-fadeIn{
+  animation-name:fadeInAnime;
+  animation-duration:15s;
+  animation-fill-mode:forwards;
+  animation-timeline: calc(1-scroll());
+  opacity:0;
+}
+
+@keyframes fadeInAnime{
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.menu_item {
+  position: relative;
+}
+.menu_item::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 2.5em;
+  width: 100%;
+  height: 0.8em;
+  opacity: 0;
+  border-radius: 50%;
+  visibility: hidden;
+  transition: 1s;
+  z-index: -1;
+}
+  
+.menu_item:hover::after {
+  visibility: visible;
+  top: 0.4em;
+  opacity: 0.5;
+  z-index: -1;
+
+}
