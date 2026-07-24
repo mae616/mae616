@@ -1,4 +1,13 @@
-## Hi there 👋
+## こんにちは 👋
+
+エンジニアを軸に、技術同人誌やAIの音楽・イラストなど色々やっています。  
+Web / JavaScript (TypeScript含む) / AI. 
+
+現実を構造化・抽象化し、ソフトウェアや創作に翻訳することを得意としています。  
+使いやすさと自然な体験を大切にしています。  
+  
+
+[Profile](https://my.prairie.cards/u/mae616)
 
 <!--
 **mae616/mae616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
